@@ -1,2 +1,2 @@
 # Arboili
-Repositório de conteúdos relacionados à vaga de pesquisador para o projeto "Arboili".
+Repositório de estudos em R relacionados à vaga de pesquisador para o projeto "Arboili".
