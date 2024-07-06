@@ -1,0 +1,59 @@
+DENGUE - Notificações registradas no Sistema de Informação de Agravos de Notificação - Brasil
+Casos Prováveis por UF de residência e Ano notificação
+Período:2021-2024
+"UF de residência";"2021";"2022";"2023";"2024";"Total"
+"11 Rondônia";2313;14275;10722;4894;32204
+"12 Acre";14867;3499;7165;5106;30637
+"13 Amazonas";8323;5443;6356;8212;28334
+"14 Roraima";116;60;233;432;841
+"15 Pará";5132;6128;5877;17764;34901
+"16 Amapá";280;293;1230;6626;8429
+"17 Tocantins";9522;20757;3245;5974;39498
+"21 Maranhão";1366;7197;5000;11428;24991
+"22 Piauí";3996;31602;7580;12755;55933
+"23 Ceará";35446;42779;14459;11000;103684
+"24 Rio Grande do Norte";3841;42112;7678;15887;69518
+"25 Paraíba";16090;28903;7229;10886;63108
+"26 Pernambuco";36428;16096;7954;26239;86717
+"27 Alagoas";7616;33649;4764;9322;55351
+"28 Sergipe";764;5203;2880;2573;11420
+"29 Bahia";25077;35942;47630;224356;333005
+"31 Minas Gerais";22256;89356;406269;1636377;2154258
+"32 Espírito Santo";32;66;252;469;819
+"33 Rio de Janeiro";2845;11085;49909;276001;339840
+"35 São Paulo";157805;350492;336824;1882766;2727887
+"41 Paraná";34713;156251;209595;624374;1024933
+"42 Santa Catarina";19504;85170;141453;346064;592191
+"43 Rio Grande do Sul";10876;67292;38697;195002;311867
+"50 Mato Grosso do Sul";9931;26379;45236;20281;101827
+"51 Mato Grosso";22332;35383;28605;38326;124646
+"52 Goiás";63502;208666;71217;299623;643008
+"53 Distrito Federal";16295;70260;40876;270838;398269
+"00 Ignorado/exterior";68;194;8;15;285
+"Total";531336;1394532;1508943;5963590;9398401
+ Fonte: Ministério da Saúde/SVSA - Sistema de Informação de Agravos de Notificação - Sinan Net
+ Notas:
+ 
+ Para os casos prováveis foram incluídas todas notificações, exceto casos descartados.
+ As bases de dados de dengue aqui disponíveis compõem um banco único a partir de 2014, podendo haver pequenas divergências com os dados disponibilizados pelo CGARB
+ (Coordenação Geral de Vigilância de Arboviroses - CGARB) em sua série histórica, que para tal, realiza análise ano a ano, com a base congelada para cada ano analisado.
+ Para tabular os casos graves (classificação final igual a dengue com complicações, febre hemorrágica da dengue, síndrome do choque da dengue, dengue com sinais de
+ alarme e dengue grave) é necessário considerar também o critério de confirmação (laboratorial e clínico-epidemiológico).
+ A partir de 2020 o estado do Espírito Santo passou a utilizar o sistema e-SUS Vigilância em Saúde. Portanto, para os casos de Arboviroses urbanas do Espírito Santo
+ foram considerados apenas os dados disponibilizados pelo Sinan online (dengue e chikungunya) e Sinan Net (zika).
+ Períodos Disponíveis ou período - Correspondem aos anos de notificação dos casos e semana epidemiológica, em cada período pode apresentar notificações com data de
+ notificação do ano anterior (semana epidemiológica 52 ou 53) e posterior (semana epidemiológica 01).
+ Para cálculo da incidência recomenda-se utilizar locais de residência.
+ Dados de 2014 atualizados em 13/07/2015.
+ Dados de 2015 atualizados em 27/09/2016.
+ Dados de 2016 atualizados em 06/07/2017.
+ Dados de 2017 atualizados em 18/07/2018.
+ Dados de 2018 atualizados em 01/10/2019.
+ Dados de 2019 atualizados em 10/07/2020.
+ Dados de 2020 atualizados em 23/07/2021.
+ Dados de 2021 atualizados em 12/07/2022.
+ Dados de 2022 atualizados em 18/07/2023.
+ Dados de 2023 atualizados em 04/06/2024 às 07 horas, sujeitos à revisão.
+ Dados de 2024 atualizados em 24/06/2024 às 03 horas, sujeitos à revisão.
+ * Dados disponibilizados no TABNET em junho de 2024.
+ 

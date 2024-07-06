@@ -1,0 +1,83 @@
+DENGUE - Notificações registradas no Sistema de Informação de Agravos de Notificação - Brasil
+Casos Prováveis por Semana epidem. notificação e Ano notificação
+Período:2021-2024
+"Semana epidem. notificação";"2021";"2022";"2023";"2024";"Total"
+"Semana 01";2305;6028;6141;24471;38945
+"Semana 02";5033;9728;11185;51179;77125
+"Semana 03";5911;11070;13850;73246;104077
+"Semana 04";7485;12317;17069;109599;146470
+"Semana 05";8700;13837;21297;148500;192334
+"Semana 06";10497;16616;27810;197586;252509
+"Semana 07";12092;19312;33786;204000;269190
+"Semana 08";14496;22281;30047;299441;366265
+"Semana 09";15523;23676;42656;328291;410146
+"Semana 10";16445;39301;53183;356547;465476
+"Semana 11";16516;50868;61561;376930;505875
+"Semana 12";18535;61717;74323;415842;570417
+"Semana 13";18887;74723;89611;373522;556743
+"Semana 14";27077;84487;83630;399418;594612
+"Semana 15";25882;79391;105977;413967;625217
+"Semana 16";24557;93029;92324;383204;593114
+"Semana 17";25806;104450;95176;355296;580728
+"Semana 18";23375;97672;78627;303973;503647
+"Semana 19";20890;94698;80273;310290;506151
+"Semana 20";19173;70480;71245;288073;448971
+"Semana 21";16363;56312;53366;228296;354337
+"Semana 22";13338;42345;38637;136317;230637
+"Semana 23";14912;37647;29006;109931;191496
+"Semana 24";12493;26284;26746;82680;148203
+"Semana 25";10267;25777;20254;65933;122231
+"Semana 26";9074;20802;14721;36634;81231
+"Semana 27";8256;17807;12290;-;38353
+"Semana 28";7932;15202;10787;-;33921
+"Semana 29";6913;13316;8700;-;28929
+"Semana 30";5912;11939;7268;-;25119
+"Semana 31";5045;11096;7130;-;23271
+"Semana 32";4798;9633;6612;-;21043
+"Semana 33";4662;8414;6080;-;19156
+"Semana 34";4342;7651;5853;-;17846
+"Semana 35";3637;6841;5195;-;15673
+"Semana 36";3124;5383;4324;-;12831
+"Semana 37";3408;6134;5376;-;14918
+"Semana 38";3349;5749;5290;-;14388
+"Semana 39";3351;5109;5035;-;13495
+"Semana 40";2797;4968;5362;-;13127
+"Semana 41";2391;4342;4536;-;11269
+"Semana 42";2811;5054;5888;-;13753
+"Semana 43";2976;4744;5991;-;13711
+"Semana 44";2889;4029;5269;-;12187
+"Semana 45";3391;5517;8100;-;17008
+"Semana 46";3719;5405;7894;-;17018
+"Semana 47";5024;6293;10171;-;21488
+"Semana 48";6398;6274;12663;-;25335
+"Semana 49";8597;6345;13914;-;28856
+"Semana 50";10717;7528;18988;-;37233
+"Semana 51";9967;7148;22290;-;39405
+"Semana 52";9298;7763;25436;-;42497
+"Total";531336;1394532;1508943;6073166;9507977
+ Fonte: Ministério da Saúde/SVSA - Sistema de Informação de Agravos de Notificação - Sinan Net
+ Notas:
+ 
+ Para os casos prováveis foram incluídas todas notificações, exceto casos descartados.
+ As bases de dados de dengue aqui disponíveis compõem um banco único a partir de 2014, podendo haver pequenas divergências com os dados disponibilizados pelo CGARB
+ (Coordenação Geral de Vigilância de Arboviroses - CGARB) em sua série histórica, que para tal, realiza análise ano a ano, com a base congelada para cada ano analisado.
+ Para tabular os casos graves (classificação final igual a dengue com complicações, febre hemorrágica da dengue, síndrome do choque da dengue, dengue com sinais de
+ alarme e dengue grave) é necessário considerar também o critério de confirmação (laboratorial e clínico-epidemiológico).
+ A partir de 2020 o estado do Espírito Santo passou a utilizar o sistema e-SUS Vigilância em Saúde. Portanto, para os casos de Arboviroses urbanas do Espírito Santo
+ foram considerados apenas os dados disponibilizados pelo Sinan online (dengue e chikungunya) e Sinan Net (zika).
+ Períodos Disponíveis ou período - Correspondem aos anos de notificação dos casos e semana epidemiológica, em cada período pode apresentar notificações com data de
+ notificação do ano anterior (semana epidemiológica 52 ou 53) e posterior (semana epidemiológica 01).
+ Para cálculo da incidência recomenda-se utilizar locais de residência.
+ Dados de 2014 atualizados em 13/07/2015.
+ Dados de 2015 atualizados em 27/09/2016.
+ Dados de 2016 atualizados em 06/07/2017.
+ Dados de 2017 atualizados em 18/07/2018.
+ Dados de 2018 atualizados em 01/10/2019.
+ Dados de 2019 atualizados em 10/07/2020.
+ Dados de 2020 atualizados em 23/07/2021.
+ Dados de 2021 atualizados em 12/07/2022.
+ Dados de 2022 atualizados em 18/07/2023.
+ Dados de 2023 atualizados em 04/06/2024 às 07 horas, sujeitos à revisão.
+ Dados de 2024 atualizados em 01/07/2024 às 03 horas, sujeitos à revisão.
+ * Dados disponibilizados no TABNET em julho de 2024.
+ 
